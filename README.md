@@ -20,5 +20,5 @@
  
  <hr/>
  
- ### 
+ ### Task 2-Stock Market Prediction And Forecasting Using Stacked LSTM
    - From the given ‘Tata NSE’ dataset, predict the stock for28 days.
