@@ -12,3 +12,6 @@
 
 
    - Then we can finally create the pencil sketch by mixing the grayscale image with the inverted blurry image. This can be done by dividing the grayscale image by the        inverted blurry image. Since images are just arrays, we can easily do this programmatically using the divide function from the cv2 library in Python.
+   
+
+   - Dataset: use your own images.
